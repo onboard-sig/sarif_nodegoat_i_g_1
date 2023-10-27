@@ -160,3 +160,16 @@ Here are the amazing [contributors](https://github.com/OWASP/NodeGoat/graphs/con
 ## License
 
 Code licensed under the [Apache License v2.0.](http://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+- glob-base/0.3.0
+    - glob-parent/2.0.0
+        - grunt-contrib-nodeunit/1.0.0
+            - grunt-if/0.2.0
+                - micromatch/2.3.11
+                    - nodeunit/0.9.5
+                        - nyc/7.1.0
+                            - owasp-nodejs-goat/1.3.0/-npm
+                                - parse-glob/3.0.4
+                                    - tap/7.1.2
